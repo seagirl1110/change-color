@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/seagirl1110/change-color/static/css/main.e6c13ad2.css",
-    "main.js": "/seagirl1110/change-color/static/js/main.127092cb.js",
-    "index.html": "/seagirl1110/change-color/index.html",
-    "main.e6c13ad2.css.map": "/seagirl1110/change-color/static/css/main.e6c13ad2.css.map",
-    "main.127092cb.js.map": "/seagirl1110/change-color/static/js/main.127092cb.js.map"
+    "main.css": "/change-color/static/css/main.e6c13ad2.css",
+    "main.js": "/change-color/static/js/main.127092cb.js",
+    "index.html": "/change-color/index.html",
+    "main.e6c13ad2.css.map": "/change-color/static/css/main.e6c13ad2.css.map",
+    "main.127092cb.js.map": "/change-color/static/js/main.127092cb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
