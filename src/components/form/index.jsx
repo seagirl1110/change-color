@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function Form({ colorFunction }) {
-  const [color, setColor] = useState('');
+  const [color, setColor] = useState('#000000');
 
   function handleChange(newColor) {
     setColor(newColor);
